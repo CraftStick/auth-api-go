@@ -87,3 +87,13 @@ go run main.go
 > A student on the path to Yandex. One step at a time.
 
 GitHub: [CraftStick](https://github.com/CraftStick)
+
+<div align="center">
+
+---
+
+Если было полезно — поставь ⭐, это очень помогает!
+
+If you found this useful, consider leaving a ⭐ — it helps a lot!
+
+</div>
